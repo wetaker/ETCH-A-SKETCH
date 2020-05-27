@@ -1,14 +1,13 @@
 div.grid-square {
-	background-color: red;
+	background-color: white;
 }
+
 
 div.main-container {
 	display: flex;
 	padding: 0px;
 	flex-direction: row;
-	justify-content: space-between;
 	flex-wrap: wrap;
-	background-color: blue;
 	width: 90vw;
 	height: 90vh;
 }
